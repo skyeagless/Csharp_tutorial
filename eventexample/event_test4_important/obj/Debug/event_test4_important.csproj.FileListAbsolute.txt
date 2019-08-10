@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\bin\Debug\event_test4_important.exe.config
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\bin\Debug\event_test4_important.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\bin\Debug\event_test4_important.pdb
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\obj\Debug\event_test4_important.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\obj\Debug\event_test4_important.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\obj\Debug\event_test4_important.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test4_important\obj\Debug\event_test4_important.pdb

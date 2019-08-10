@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\bin\Debug\event_test2.exe.config
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\bin\Debug\event_test2.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\bin\Debug\event_test2.pdb
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\obj\Debug\event_test2.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\obj\Debug\event_test2.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\obj\Debug\event_test2.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_test2\obj\Debug\event_test2.pdb

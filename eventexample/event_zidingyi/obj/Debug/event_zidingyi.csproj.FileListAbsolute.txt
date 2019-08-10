@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\bin\Debug\event_zidingyi.exe.config
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\bin\Debug\event_zidingyi.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\bin\Debug\event_zidingyi.pdb
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\obj\Debug\event_zidingyi.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\obj\Debug\event_zidingyi.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\obj\Debug\event_zidingyi.exe
+D:\学习资源（硕）\Csharp_test\demo\eventexample\event_zidingyi\obj\Debug\event_zidingyi.pdb
