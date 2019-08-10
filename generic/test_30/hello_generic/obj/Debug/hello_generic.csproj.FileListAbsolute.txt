@@ -1,0 +1,6 @@
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\bin\Debug\hello_generic.exe.config
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\bin\Debug\hello_generic.exe
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\bin\Debug\hello_generic.pdb
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\obj\Debug\hello_generic.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\obj\Debug\hello_generic.exe
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\hello_generic\obj\Debug\hello_generic.pdb

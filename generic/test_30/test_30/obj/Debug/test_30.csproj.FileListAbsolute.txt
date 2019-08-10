@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\bin\Debug\test_30.exe.config
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\bin\Debug\test_30.exe
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\bin\Debug\test_30.pdb
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\obj\Debug\test_30.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\obj\Debug\test_30.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\obj\Debug\test_30.exe
+D:\学习资源（硕）\Csharp_test\demo\test_30\test_30\test_30\obj\Debug\test_30.pdb

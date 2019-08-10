@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\bin\Debug\ParametersExample.exe.config
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\bin\Debug\ParametersExample.exe
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\bin\Debug\ParametersExample.pdb
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\obj\Debug\ParametersExample.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\obj\Debug\ParametersExample.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\obj\Debug\ParametersExample.exe
+D:\学习资源（硕）\Csharp_test\demo\ParametersExample\ParametersExample\obj\Debug\ParametersExample.pdb
