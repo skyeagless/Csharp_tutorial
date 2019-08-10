@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\bin\Debug\abstract_class.exe.config
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\bin\Debug\abstract_class.exe
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\bin\Debug\abstract_class.pdb
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\obj\Debug\abstract_class.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\obj\Debug\abstract_class.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\obj\Debug\abstract_class.exe
+D:\学习资源（硕）\Csharp_test\demo\abstract_class\abstract_class\obj\Debug\abstract_class.pdb
