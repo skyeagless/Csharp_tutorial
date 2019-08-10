@@ -1,0 +1,6 @@
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\bin\Debug\delegate_model_callback.exe.config
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\bin\Debug\delegate_model_callback.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\bin\Debug\delegate_model_callback.pdb
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\obj\Debug\delegate_model_callback.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\obj\Debug\delegate_model_callback.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_model_callback\obj\Debug\delegate_model_callback.pdb

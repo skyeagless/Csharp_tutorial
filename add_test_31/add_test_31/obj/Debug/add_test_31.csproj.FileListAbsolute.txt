@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\bin\Debug\add_test_31.exe.config
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\bin\Debug\add_test_31.exe
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\bin\Debug\add_test_31.pdb
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\obj\Debug\add_test_31.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\obj\Debug\add_test_31.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\obj\Debug\add_test_31.exe
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\add_test_31\obj\Debug\add_test_31.pdb

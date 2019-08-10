@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\bin\Debug\combine.exe.config
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\bin\Debug\combine.exe
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\bin\Debug\combine.pdb
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\obj\Debug\combine.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\obj\Debug\combine.exe
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\obj\Debug\combine.pdb
+D:\学习资源（硕）\Csharp_test\demo\add_test_31\combine\obj\Debug\combine.csprojAssemblyReference.cache

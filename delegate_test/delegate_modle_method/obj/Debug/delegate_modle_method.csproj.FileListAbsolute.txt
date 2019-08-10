@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\bin\Debug\delegate_modle_method.exe.config
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\bin\Debug\delegate_modle_method.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\bin\Debug\delegate_modle_method.pdb
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\obj\Debug\delegate_modle_method.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\obj\Debug\delegate_modle_method.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\obj\Debug\delegate_modle_method.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate_modle_method\obj\Debug\delegate_modle_method.pdb

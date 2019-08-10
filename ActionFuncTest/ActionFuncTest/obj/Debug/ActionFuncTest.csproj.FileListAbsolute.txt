@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\bin\Debug\ActionFuncTest.exe.config
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\bin\Debug\ActionFuncTest.exe
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\bin\Debug\ActionFuncTest.pdb
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\obj\Debug\ActionFuncTest.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\obj\Debug\ActionFuncTest.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\obj\Debug\ActionFuncTest.exe
+D:\学习资源（硕）\Csharp_test\demo\ActionFuncTest\ActionFuncTest\obj\Debug\ActionFuncTest.pdb

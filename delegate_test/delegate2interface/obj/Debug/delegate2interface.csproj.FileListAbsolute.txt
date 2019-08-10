@@ -1,0 +1,7 @@
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\bin\Debug\delegate2interface.exe.config
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\bin\Debug\delegate2interface.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\bin\Debug\delegate2interface.pdb
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\obj\Debug\delegate2interface.csprojAssemblyReference.cache
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\obj\Debug\delegate2interface.csproj.CoreCompileInputs.cache
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\obj\Debug\delegate2interface.exe
+D:\学习资源（硕）\Csharp_test\demo\delegate_test\delegate2interface\obj\Debug\delegate2interface.pdb
